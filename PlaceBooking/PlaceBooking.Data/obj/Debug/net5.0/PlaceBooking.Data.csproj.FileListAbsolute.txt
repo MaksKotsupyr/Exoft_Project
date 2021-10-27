@@ -1,0 +1,15 @@
+C:\Users\пк\source\repos\PlaceBooking\PlaceBooking.Data\bin\Debug\net5.0\PlaceBooking.Data.deps.json
+C:\Users\пк\source\repos\PlaceBooking\PlaceBooking.Data\bin\Debug\net5.0\PlaceBooking.Data.dll
+C:\Users\пк\source\repos\PlaceBooking\PlaceBooking.Data\bin\Debug\net5.0\ref\PlaceBooking.Data.dll
+C:\Users\пк\source\repos\PlaceBooking\PlaceBooking.Data\bin\Debug\net5.0\PlaceBooking.Data.pdb
+C:\Users\пк\source\repos\PlaceBooking\PlaceBooking.Data\obj\Debug\net5.0\PlaceBooking.Data.csproj.AssemblyReference.cache
+C:\Users\пк\source\repos\PlaceBooking\PlaceBooking.Data\obj\Debug\net5.0\PlaceBooking.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\пк\source\repos\PlaceBooking\PlaceBooking.Data\obj\Debug\net5.0\PlaceBooking.Data.AssemblyInfoInputs.cache
+C:\Users\пк\source\repos\PlaceBooking\PlaceBooking.Data\obj\Debug\net5.0\PlaceBooking.Data.AssemblyInfo.cs
+C:\Users\пк\source\repos\PlaceBooking\PlaceBooking.Data\obj\Debug\net5.0\PlaceBooking.Data.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\PlaceBooking\PlaceBooking.Data\obj\Debug\net5.0\PlaceBooking.Data.dll
+C:\Users\пк\source\repos\PlaceBooking\PlaceBooking.Data\obj\Debug\net5.0\ref\PlaceBooking.Data.dll
+C:\Users\пк\source\repos\PlaceBooking\PlaceBooking.Data\obj\Debug\net5.0\PlaceBooking.Data.pdb
+C:\Users\пк\source\repos\PlaceBooking\PlaceBooking.Data\bin\Debug\net5.0\PlaceBooking.Data.runtimeconfig.json
+C:\Users\пк\source\repos\PlaceBooking\PlaceBooking.Data\bin\Debug\net5.0\PlaceBooking.Data.runtimeconfig.dev.json
+C:\Users\пк\source\repos\PlaceBooking\PlaceBooking.Data\obj\Debug\net5.0\PlaceBooking.Data.genruntimeconfig.cache

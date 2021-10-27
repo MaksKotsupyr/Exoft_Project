@@ -1,0 +1,15 @@
+C:\Users\пк\source\repos\PlaceBooking\PlaceBooking.BusinessLogic\bin\Debug\net5.0\PlaceBooking.BusinessLogic.deps.json
+C:\Users\пк\source\repos\PlaceBooking\PlaceBooking.BusinessLogic\bin\Debug\net5.0\PlaceBooking.BusinessLogic.dll
+C:\Users\пк\source\repos\PlaceBooking\PlaceBooking.BusinessLogic\bin\Debug\net5.0\ref\PlaceBooking.BusinessLogic.dll
+C:\Users\пк\source\repos\PlaceBooking\PlaceBooking.BusinessLogic\bin\Debug\net5.0\PlaceBooking.BusinessLogic.pdb
+C:\Users\пк\source\repos\PlaceBooking\PlaceBooking.BusinessLogic\bin\Debug\net5.0\PlaceBooking.Data.dll
+C:\Users\пк\source\repos\PlaceBooking\PlaceBooking.BusinessLogic\bin\Debug\net5.0\PlaceBooking.Data.pdb
+C:\Users\пк\source\repos\PlaceBooking\PlaceBooking.BusinessLogic\obj\Debug\net5.0\PlaceBooking.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\пк\source\repos\PlaceBooking\PlaceBooking.BusinessLogic\obj\Debug\net5.0\PlaceBooking.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\пк\source\repos\PlaceBooking\PlaceBooking.BusinessLogic\obj\Debug\net5.0\PlaceBooking.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\пк\source\repos\PlaceBooking\PlaceBooking.BusinessLogic\obj\Debug\net5.0\PlaceBooking.BusinessLogic.AssemblyInfo.cs
+C:\Users\пк\source\repos\PlaceBooking\PlaceBooking.BusinessLogic\obj\Debug\net5.0\PlaceBooking.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\PlaceBooking\PlaceBooking.BusinessLogic\obj\Debug\net5.0\PlaceBooking.BusinessLogic.csproj.CopyComplete
+C:\Users\пк\source\repos\PlaceBooking\PlaceBooking.BusinessLogic\obj\Debug\net5.0\PlaceBooking.BusinessLogic.dll
+C:\Users\пк\source\repos\PlaceBooking\PlaceBooking.BusinessLogic\obj\Debug\net5.0\ref\PlaceBooking.BusinessLogic.dll
+C:\Users\пк\source\repos\PlaceBooking\PlaceBooking.BusinessLogic\obj\Debug\net5.0\PlaceBooking.BusinessLogic.pdb
